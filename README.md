@@ -10,5 +10,4 @@ I'm Zaid, exploring Generative AI at PwC. My tech journey thrives on innovation,
 📫 Reach out on LinkedIn for collaboration, learning, or a friendly chat.
 
 ## Personal
-⚡ Off-screen, I'm passionate about sports, I love to play and watch footbll, big liverpool fan. Love to also play padel, a bit new to the game so also a bit trash.
-Excited to connect and venture into tech's future together!
+⚡ Off-screen, I'm passionate about sports, I love to play and watch footbll, big liverpool fan. Love to also play padel, a bit new to the game.
