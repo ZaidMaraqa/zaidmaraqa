@@ -5,7 +5,7 @@ I'm Zaid, exploring Generative AI at PwC. My tech journey thrives on innovation,
 ## Work
  At PwC, I'm immersed in AI model enhancement, web development, and crafting user-centric UI/UX designs. I'm at the tech forefront, using AI to tackle real challenges.
 
- I'm delving into LangChain, Next.js, AutoGen, and prompt engineering, aiming to understand generative AI's impact on industries and experiences.
+ I'm delving into LangChain, Next.js, and prompt engineering, aiming to understand generative AI's impact on industries and experiences.
 
  Reach out on LinkedIn for collaboration, learning, or a chat.
 
