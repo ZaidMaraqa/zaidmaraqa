@@ -1,6 +1,6 @@
 
 ## Hello 👋
-I'm Zaid, exploring Generative AI at PwC. My tech journey thrives on innovation, learning, and collaboration.
+I'm Zaid, exploring Generative AI at PwC.
 
 ## Work
  At PwC, I'm immersed in AI model enhancement, web development, and crafting user-centric UI/UX designs. I'm at the tech forefront, using AI to tackle real challenges.
