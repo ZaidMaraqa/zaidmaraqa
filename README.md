@@ -1,5 +1,5 @@
 
 ## Hello 👋
-I'm Zaid..
+I'm Zaid.
 
 
